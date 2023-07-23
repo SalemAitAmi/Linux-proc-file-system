@@ -1,7 +1,7 @@
 # Linux Proc File System
 ## If run without an argument, dumps information about the system to STDOUT.
 
-./getstats
+**./getstats**
 
 model name      : 12th Gen Intel(R) Core(TM) i5-12400
 
@@ -15,7 +15,7 @@ Uptime: 0 days, 18 hours, 35 minutes, 29 seconds
 
 ## If run with a process number created by the current user, dumps information about that process to STDOUT.
 
-./getstats 238
+**./getstats 238**
 
 Process number: 238
 
